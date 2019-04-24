@@ -1,0 +1,1 @@
+This is the first version of Cheepees - my final project for Code Institute.
